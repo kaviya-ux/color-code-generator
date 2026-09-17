@@ -17,12 +17,12 @@ It generates random colors and displays their HEX and RGB color codes.
 - CSS3
 - JavaScript
 
-## ▶️ How to Run
+# How to Run
 1. Clone the repository.
 2. Open the project folder.
 3. Open `index.html` in your browser.
 4. Click **Generate Color** to generate a new color.
 
-## 🎯 Purpose
+# Purpose
 This project was created to practice JavaScript fundamentals, DOM manipulation,
 event handling, and color-code conversion.
