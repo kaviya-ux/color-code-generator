@@ -1,33 +1,28 @@
 # Color Code Generator
 
-A simple and interactive web application that generates random colors and displays their HEX and RGB color codes.
-
-#  Project Overview
-
-The Color Code Generator is a beginner-friendly JavaScript project developed to practice DOM manipulation, event handling, random number generation, and color code conversion.
-Users can generate a random color, view its HEX and RGB values, and copy the HEX code to the clipboard.
+# About
+A simple and interactive web application built using HTML5, CSS3, and JavaScript.
+It generates random colors and displays their HEX and RGB color codes.
 
 # Features
-
 - Generate random colors
 - Display HEX color code
 - Display RGB color code
 - Copy HEX code to clipboard
 - Interactive color preview
-- Simple and responsive user interface
+- Responsive design
 
 # Technologies Used
-
 - HTML5
 - CSS3
 - JavaScript
 
-# Project Structure
+## ▶️ How to Run
+1. Clone the repository.
+2. Open the project folder.
+3. Open `index.html` in your browser.
+4. Click **Generate Color** to generate a new color.
 
-```text
-Color-Code-Generator/
-│
-├── index.html
-├── style.css
-├── script.js
-└── README.md
+## 🎯 Purpose
+This project was created to practice JavaScript fundamentals, DOM manipulation,
+event handling, and color-code conversion.
