@@ -1,6 +1,5 @@
 # Color Code Generator
 
-# About
 A simple and interactive web application built using HTML5, CSS3, and JavaScript.
 It generates random colors and displays their HEX and RGB color codes.
 
