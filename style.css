@@ -40,24 +40,7 @@ h1 {
     margin-bottom: 20px;
 }
 .buttons {
-    display: flex;
-    gap: 10px;
-    justify-content: center;
-}
-button {
-    border: none;
-    padding: 12px 15px;
-    border-radius: 8px;
-    cursor: pointer;
-    font-size: 15px;
-}
-#generateBtn {
-    background-color: #222;
-    color: white;
-}
-#copyBtn {
-    background-color: #ddd;
-    color: #222;
+
 }
 button:hover {
     opacity: 0.8;
